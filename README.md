@@ -6,3 +6,4 @@ Hi, please read me.
 
 Typed something here on VS
 
+Typed another thing here on Github.
