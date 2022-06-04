@@ -6,3 +6,5 @@ Hi, please read me.
 
 Typed something here on VS
 
+typed something else  on VS after updating from Git
+
