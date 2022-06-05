@@ -6,9 +6,10 @@ Hi, please read me.
 
 Typed something here on VS
 
-<<<<<<< HEAD
 typed something else  on VS after updating from Git
 
-=======
 Typed another thing here on Github.
->>>>>>> a9c7a867993e9d74f49cc148b1a0bc79912b8699
+
+## Local Development
+
+1. Open index.html in your browser.
