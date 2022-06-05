@@ -9,7 +9,3 @@ Typed something here on VS
 typed something else  on VS after updating from Git
 
 Typed another thing here on Github.
-
-## Local Development
-
-1. Open index.html in your browser.
